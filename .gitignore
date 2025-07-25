@@ -1,0 +1,22 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Conda / virtualenv
+.env/
+.conda/
+venv/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs
+*.log
