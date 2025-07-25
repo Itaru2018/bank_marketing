@@ -14,7 +14,7 @@ def main():
                 [https://linkedin.com/in/itaru-yasumura-27b05a1b2](https://linkedin.com/in/itaru-yasumura-27b05a1b2)
                 
                 **GitHub**
-                [https://github.com/itaru-data/bank_marketing](https://github.com/itaru-data/bank_marketing)
+                [https://github.com/Itaru2018/bank_marketing.git](https://github.com/Itaru2018/bank_marketing.git)
 
                 ''')
 
